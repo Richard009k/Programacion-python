@@ -1,3 +1,4 @@
+# Ejercicio 3 - Ricardo Vaja
 numero =3
 operacion= 0
 while numero <=100:
