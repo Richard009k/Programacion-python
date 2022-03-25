@@ -1,3 +1,4 @@
+# Ejercicio 10 - Ricardo Vaja
 import random
 numero = random.randint(0, 10)
 intentos = 5

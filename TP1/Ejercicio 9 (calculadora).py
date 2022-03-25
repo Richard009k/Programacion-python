@@ -1,3 +1,4 @@
+# Ejercicio 9 - Ricardo Vaja
 numero1= 0
 numero2= 0
 resultado= 0
